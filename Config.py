@@ -9,7 +9,7 @@ class Config(object):
     HEROKU_MODE = os.environ.get("HEROKU_MODE", None)
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "giyu_music_bot")
     SUPPORT = os.environ.get("SUPPORT", "anime_verse8") # Your Support
-    CHANNEL = os.environ.get("CHANNEL", "anime_verse8"") # Your Channel
+    CHANNEL = os.environ.get("CHANNEL", "anime_verse8") # Your Channel
     START_IMG = os.environ.get("START_IMG", "https://telegra.ph/file/3d8ecee0ba7dddfc6fce4.jpg")
     CMD_IMG = os.environ.get("CMD_IMG", "https://telegra.ph/file/66518ed54301654f0b126.png")
     ASSISTANT_ID = int(os.environ.get("ASSISTANT_ID", "7316912610")) # telegram I'd not Username
