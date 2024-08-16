@@ -3,15 +3,15 @@ import os
 class Config(object):
     API_ID = int(6435225) #dont change
     API_HASH = "4e984ea35f854762dcde906dce426c2d" #dont change 
-    BOT_TOKEN = "" #fill your telegram bot token
-    STRING_SESSION = "" #an Telethon Session 
+    BOT_TOKEN = "7388736895:AAF1NXl0ecsagFWcyxcwNZMiikIqgTMBDGg" #fill your telegram bot token
+    STRING_SESSION = "BQGrUskAHaf2rylGlovRegU7QhXxMHlsZJ55ZoWep-VVSQG018THM_HtRp8WEwvLkmZkG9T5MkjXVWqnT1B_aUr3j8KEojzzxnYQJpD2bkJJFEO-FW167k-tzmpqNg02Tq4XtwNQ1_rceIMLxV_6RYnFzK-tSr72nrBSyVe1tOimDU2WNZmqRkMeb2RqPlfwaoGZFVYYYBCZJiRK_jPrzPEt6lHsVhFjYsQ6bVxyTGxT4wOq7m7aPljXvJgZqsVaBFKvpbVD0M_-7gOULUW4FNq8o-J0TL3PiYsGyzRaNrkE_m2xfFZFBAjYywC72Nuymq2NUIJg9drTbIDketkmW73YAVGvhwAAAAG0HzniAA" #an Telethon Session 
     MANAGEMENT_MODE = None #Dont change
     HEROKU_MODE = None #dont change
-    BOT_USERNAME = "Zaid2_Robot" #Your Bot username 
-    SUPPORT = "TheSupportChat" #optional
-    CHANNEL = "TheUpdatesChannel" #optional
+    BOT_USERNAME = "giyu_music_bot" #Your Bot username 
+    SUPPORT = "anime_verse8" #optional
+    CHANNEL = "anime_verse8" #optional
     START_IMG = "https://telegra.ph/file/35a7b5d9f1f2605c9c0d3.png"
     CMD_IMG = "https://telegra.ph/file/66518ed54301654f0b126.png"
-    ASSISTANT_ID = int(1234567890) #your string added account user id..
+    ASSISTANT_ID = int(7316912610) #your string added account user id..
     AUTO_LEAVE_TIME = int(54000) # in seconds
     AUTO_LEAVE = True #Optional
